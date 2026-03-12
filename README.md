@@ -4,13 +4,15 @@
 
 **Environmental Engineer | Building AI-Powered Compliance Systems**
 
-I turn complex environmental regulations into clear workflows, automated systems, and confident decisions. Eight years across upstream oil & gas, refining, renewable fuels, and aerospace manufacturing— now building tools that make compliance predictable, auditable, and resilient.
+I spend my weekends automating things no one asked me to. 
+
+I also turn complex environmental regulations into clear workflows, automated systems, and confident decisions. Nine years across upstream oil & gas, refining, renewable fuels, and aerospace manufacturing— now building tools that make compliance predictable, auditable, and resilient.
 
 ## What I'm Working On
 
-🔧 **[Rose Thorn AI](https://rosethorn.ai)** — Environmental compliance consulting powered by AI. Translating policy into systems so teams can stop firefighting and start operating.
+🔧 **[Rose Thorn AI](https://rosethorn.ai)** — Environmental compliance consulting powered by AI. Translating policy into systems that work for people, business and the environment. 
 
-🤝 **Basin AI Alliance** — Building a professional community connecting AI and field-based energy professionals in the Permian and Delaware Basin.
+🤝 **Basin AI Alliance** — Building a professional community connecting AI and field-based energy workers in the Permian and Delaware Basin.  
 
 ## Domain Expertise
 
